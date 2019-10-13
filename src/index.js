@@ -63,7 +63,6 @@ function rearm(){
       rep_counter++;
     }
    let current_arr = (num_decay(num_arr[i],rep_counter));
-    console.log(current_arr);
 
      for(let u=0;u<current_arr.length;u++){
 
